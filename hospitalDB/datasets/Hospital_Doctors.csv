@@ -1,0 +1,8 @@
+doctor_id,name,specialization,dept
+1,Dr. Arjun Mehta,Orthopedics,Cardiology
+2,Dr. Priya Sharma,Orthopedics,Neurology
+3,Dr. Rakesh Iyer,Cardiology,Orthopedics
+4,Dr. Anjali Nair,Neurology,Pediatrics
+5,Dr. Vikram Rao,Neurology,Dermatology
+6,Dr. Kavita Joshi,Pediatrics,Oncology
+7,Dr. Sanjay Gupta,Orthopedics,Gastroenterology

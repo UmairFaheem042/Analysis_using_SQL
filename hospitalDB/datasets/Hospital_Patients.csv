@@ -1,0 +1,21 @@
+patient_id,name,dob,gender,address
+1,Rohan Kapoor,1979-12-28,Male,Surat
+2,Priya Nair,1991-12-21,Male,Lucknow
+3,Vikram Desai,1979-03-13,Male,Bangalore
+4,Neha Agarwal,2007-11-08,Male,Chennai
+5,Sameer Khan,1978-05-29,Male,Pune
+6,Meera Joshi,2015-05-04,Male,Kanpur
+7,Aditya Roy,1987-11-03,Female,Noida
+8,Shreya Menon,2010-04-20,Female,Chandigarh
+9,Karan Malhotra,1984-04-28,Female,Mumbai
+10,Sanya Kapoor,1994-12-06,Male,Delhi
+11,Rahul Chawla,2000-03-13,Male,Hyderabad
+12,Ishita Das,2004-02-01,Male,Nagpur
+13,Arjun Reddy,2000-11-09,Female,Kolkata
+14,Divya Sharma,2011-03-21,Male,Visakhapatnam
+15,Mohit Gupta,1977-01-26,Female,Indore
+16,Sneha Iyer,2002-06-12,Male,Thane
+17,Nikhil Jain,1974-02-10,Male,Bhopal
+18,Pooja Rathi,1977-02-27,Male,Ahmedabad
+19,Amitabh Ghosh,2004-02-07,Female,Jaipur
+20,Tanya Oberoi,2002-09-24,Male,Patna
