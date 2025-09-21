@@ -4,7 +4,7 @@ This repository contains database projects designed to practice SQL concepts, sc
 Each project includes:
 
 - **Datasets** (sample data in CSV format)
-- **SQL files** (DDL & DML scripts, queries, and analysis)
+- **SQL files** (queries)
 - **ERD diagrams** (visual representation of the schema)
 - **Project-specific README** with details and queries
 
