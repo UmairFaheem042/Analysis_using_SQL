@@ -22,6 +22,11 @@ Each project includes:
 - Database for users, subscriptions, movies, watch history, and reviews.
 - Includes sample datasets, ERD, and SQL queries for business insights.
 
+#### 🎬 [Banking Database](./banksDB/README.md)
+
+- Database for accounts, cards, customers, loans, and transactions.
+- Includes sample datasets, ERD, and SQL queries for business insights.
+
 ---
 
 ## 📄 Dataset Disclaimer

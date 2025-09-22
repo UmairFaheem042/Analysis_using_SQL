@@ -1,0 +1,12 @@
+loan_id,customer_id,loan_type,amount,status,issue_date,due_date
+1,1,Home Loan,29839.65,Active,2022-10-31,2026-07-01
+2,2,Car Loan,25272.67,Closed,2023-09-11,2030-08-13
+3,4,Home Loan,17964.72,Closed,2025-03-21,2025-11-24
+4,6,Personal Loan,15504.07,Closed,2025-07-31,2028-01-06
+5,7,Car Loan,10164.93,Active,2025-03-04,2026-01-23
+6,8,Car Loan,42198.4,Active,2023-06-20,2029-09-21
+7,9,Home Loan,40668.29,Closed,2024-12-05,2029-06-25
+8,11,Car Loan,35990.51,Closed,2023-11-27,2027-04-07
+9,15,Personal Loan,6793.74,Closed,2025-03-18,2029-06-06
+10,18,Home Loan,15301.6,Active,2025-06-03,2029-11-26
+11,20,Home Loan,26172.54,Closed,2023-02-09,2029-09-20
