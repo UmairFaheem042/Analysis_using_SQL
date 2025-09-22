@@ -12,17 +12,17 @@ Each project includes:
 
 ## 📘 Projects
 
-#### 🏥 [Hospital Management Database](./hospitalDB/README.md)
+#### 🏥 [Hospital Management Database](https://github.com/UmairFaheem042/Analysis_using_SQL/tree/main/hospitalDB)
 
 - Database for managing patients, doctors, appointments, and billing.
 - Includes sample datasets, ERD, and SQL queries for analysis.
 
-#### 🎬 [Netflix-like Streaming Database](./netflixDB/README.md)
+#### 🎬 [Netflix-like Streaming Database](https://github.com/UmairFaheem042/Analysis_using_SQL/tree/main/netflixDB)
 
 - Database for users, subscriptions, movies, watch history, and reviews.
 - Includes sample datasets, ERD, and SQL queries for business insights.
 
-#### 🎬 [Banking Database](./banksDB/README.md)
+#### 🏦 [Banking Database](https://github.com/UmairFaheem042/Analysis_using_SQL/tree/main/banksDB)
 
 - Database for accounts, cards, customers, loans, and transactions.
 - Includes sample datasets, ERD, and SQL queries for business insights.
